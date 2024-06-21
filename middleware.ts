@@ -1,1 +1,1 @@
-export { auth as middleware } from '../my-apps/auth'
+export { auth as middleware } from "@/auth";
