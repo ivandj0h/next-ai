@@ -26,7 +26,7 @@
     "jose": "^5.4.0",
     "lucide-react": "^0.394.0",
     "moment": "^2.30.1",
-    "next": "14.2.4",
+    "next": "14.2.12",
     "next-auth": "^5.0.0-beta.19",
     "openai": "^4.51.0",
     "react": "^18",
